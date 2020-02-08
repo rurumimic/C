@@ -10,10 +10,10 @@
 2. [동적 메모리](dynamic.md)
 3. [함수](function.md)
 4. [배열](array.md)
-5. 문자열
-6. 구조체
-7. 오남용 문제
-8. 기타
+5. [문자열](strings.md)
+6. [구조체](struct.md)
+7. [오남용 문제](issue.md)
+8. [기타](etc.md)
 
 ## 책
 
